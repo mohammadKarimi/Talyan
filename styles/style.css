@@ -1002,7 +1002,7 @@
 
 .wzc-section-wzs55-full {
     background-color: rgb(20, 20, 25);
-    background-image: url(../../uploads/e43a8470a9ec44f2bf38373b70b1dc36.jpg);
+    background-image: url(../images/e43a8470a9ec44f2bf38373b70b1dc36.jpg);
     background-position: center center;
     background-attachment: none
 }
@@ -1230,7 +1230,7 @@
 #wze477 {
     top: 21.0089px;
     left: 0.0009125px;
-    width: 30px;
+    width: 86px;
     height: 30px;
     z-index: 1001
 }
@@ -1268,7 +1268,7 @@
 
 #wze584 {
     top: 18.0089px;
-    left: 45.4732px;
+    left: 100px;
     width: 171px;
     height: 36px;
     z-index: 1000;
@@ -2339,7 +2339,7 @@
         left: 124.996px;
         bottom: auto;
         right: auto;
-        width: 30px;
+        width: 86px;
         height: 30px;
         display: block;
         z-index: 1000
@@ -2347,10 +2347,10 @@
 
     #wze583 {
         top: 17px;
-        left: 169.996px;
+        left: 220px;
         bottom: auto;
         right: auto;
-        width: 171px;
+        width: 228px;
         height: 36px;
         display: block;
         z-index: 1000;
@@ -3246,7 +3246,7 @@
         left: 79.0009px;
         bottom: auto;
         right: auto;
-        width: 30px;
+        width: 86px;
         height: 30px;
         display: block;
         z-index: 1000
@@ -8383,7 +8383,7 @@
     }
 
     .cssgrid #wze467 {
-        margin: 5px 0px -6px 0px;
+        margin: 1px 0px 1px 0px;
         grid-area: 1 / 1 / 4 / 2
     }
 
